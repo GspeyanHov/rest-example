@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    password: root
+
+  liquibase:
+    change-log: classpath:/db/changelog/2022/10/migration.xml
+
+
+
+
+
+
+
+
+
